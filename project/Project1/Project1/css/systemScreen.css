@@ -1,0 +1,141 @@
+@import url("https://fonts.googleapis.com/css2?family=Pacifico&family=Ubuntu:ital,wght@1,300&display=swap");
+
+/* body {
+  background-color: lightblue;
+}
+
+header {
+  width: 100%;
+
+  contain: content;
+  background-color: rgb(22, 163, 219);
+}
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+  margin-bottom: 1em;
+}
+
+th,
+td {
+  text-align: left;
+  padding: 8px;
+  border-bottom: 1px solid #ddd;
+}
+
+th {
+  background-color: #f2f2f2;
+  color: #333;
+  font-weight: bold;
+}
+
+tr:nth-child(even) {
+  background-color: #f9f9f9;
+}
+
+tr:nth-child(odd) {
+  background-color: rgba(211, 211, 211, 0.634);
+}
+
+td i {
+  padding-left: 10px;
+}
+
+td i:hover {
+  color: red;
+  cursor: pointer;
+} */
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+  font-family: Arial, sans-serif;
+  font-size: 14px;
+  color: #333;
+  background-color: #f5f5f5;
+  border: 1px solid #ccc;
+  margin-bottom: 20px;
+}
+
+th,
+td {
+  padding: 12px;
+  text-align: left;
+  border-bottom: 1px solid #ddd;
+}
+
+th {
+  background-color: #f2f2f2;
+  font-weight: bold;
+  color: #555;
+  text-transform: uppercase;
+  font-size: 12px;
+  letter-spacing: 1px;
+}
+
+tr:hover {
+  background-color: #ddd;
+}
+
+/* Alternating row colors */
+tr:nth-child(even) {
+  background-color: #fff;
+}
+
+/* Add a border around the first and last row */
+tr:first-child {
+  border-top: 2px solid #ccc;
+}
+
+tr:last-child {
+  border-bottom: 2px solid #ccc;
+}
+
+/* Responsive table */
+@media (max-width: 767px) {
+  table {
+    border: 0;
+  }
+
+  table caption {
+    font-size: 1.3em;
+  }
+
+  table thead {
+    display: none;
+  }
+
+  table tbody {
+    display: block;
+    width: 100%;
+  }
+
+  table tbody tr {
+    display: block;
+    margin-bottom: 10px;
+    border-bottom: 2px solid #ddd;
+  }
+
+  table tbody tr:last-child {
+    border-bottom: 0;
+  }
+
+  table tbody td {
+    display: block;
+    text-align: right;
+    padding-left: 50%;
+    text-align: right;
+    position: relative;
+  }
+
+  table tbody td:before {
+    content: attr(data-label);
+    position: absolute;
+    left: 0;
+    width: 50%;
+    padding-left: 12px;
+    font-weight: bold;
+    text-align: left;
+  }
+}

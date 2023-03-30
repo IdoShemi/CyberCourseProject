@@ -1,0 +1,181 @@
+@import url("https://fonts.googleapis.com/css2?family=Pacifico&family=Ubuntu:ital,wght@0,400;1,300&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Ubuntu";
+}
+
+html,
+body {
+  height: 100%;
+}
+
+body {
+  display: grid;
+  place-items: center;
+  margin: 0;
+  padding: 0 24px;
+  background-image: url("/backgrounds/background2.PNG");
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-family: "Ubuntu";
+  color: rgb(255, 255, 255);
+  animation: rotate 6s infinite alternate linear;
+}
+
+.login-form {
+  width: 100%;
+  margin: 0;
+  display: grid;
+  gap: 16px;
+}
+
+.login-form .input-box,
+.login-form > button {
+  width: 100%;
+  height: 50px;
+}
+
+.login-form .input-box i {
+  position: absolute;
+  color: black;
+  margin-left: -30px;
+  margin-top: 15px;
+}
+
+.login-form .input-box #togglePassword {
+  position: absolute;
+  cursor: pointer;
+  color: black;
+}
+
+.login-form .input-box input {
+  border: 2px solid #ebebeb;
+  font-family: inherit;
+  font: size 15px;
+  padding: 0 30px;
+  border-radius: 1.25rem;
+  transition: all 0.375s;
+}
+
+.login-form .input-box input:hover {
+  border: 2px solid rgb(64, 197, 224);
+}
+
+.login-form > button {
+  cursor: pointer;
+  width: 100%;
+  padding: 0 16px;
+  margin-top: 5px;
+  border-radius: 1.25rem;
+  background: rgb(4, 24, 73);
+  border: 2px solid rgba(255, 255, 255, 0.5);
+  color: #f9f9f9;
+  font-family: inherit;
+  font-size: 1rem;
+  font-weight: 600;
+  text-align: center;
+  letter-spacing: 2px;
+  transition: all 0.375s;
+}
+
+.login-form > button:hover {
+  background: rgb(64, 197, 224);
+}
+
+.login-card-register {
+  position: relative;
+  background: transparent;
+  backdrop-filter: blur(20px);
+  border: 2px solid rgba(255, 255, 255, 0.5);
+  z-index: index 1;
+  width: 25%;
+  margin: 0 20px;
+  padding: 50px 30px 44px;
+  border-radius: 1.25rem;
+  text-align: center;
+  overflow: hidden;
+}
+
+.login-card-register > h2 {
+  font-size: 36px;
+  font-weight: 600;
+  margin: 0 0 40px;
+}
+
+.login-form .input-box input {
+  width: 92%;
+  height: 50px;
+}
+
+.login-form .input-box-names input {
+  border: 2px solid #ebebeb;
+  font-family: inherit;
+  font: size 15px;
+  padding: 0 5px;
+  border-radius: 1.25rem;
+  transition: all 0.375s;
+  width: 44%;
+  height: 50px;
+  margin: 5px;
+  text-align: center;
+}
+
+.login-form .input-box-names input:hover {
+  border: 2px solid rgb(64, 197, 224);
+}
+
+.login-form .input-box-password input {
+  display: grid;
+  border: 2px solid #ebebeb;
+  font-family: inherit;
+  font: size 15px;
+  padding: 0 5px;
+  border-radius: 1.25rem;
+  transition: all 0.375s;
+  width: 92%;
+  height: 50px;
+  margin-left: 17px;
+  padding-left: 27px;
+  justify-content: space-between;
+}
+
+.login-card-register button {
+  margin: auto;
+  width: 50%;
+}
+.login-card-register .icon-back {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 45px;
+  height: 45px;
+  background: rgb(4, 5, 73);
+  font-size: 2em;
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-bottom-right-radius: 20px;
+  cursor: pointer;
+}
+
+@keyframes rotate {
+  100% {
+    background-position: 15% 50%;
+    animation-direction: alternate-reverse;
+  }
+}
+
+@media (width >= 500px) {
+  body {
+    padding: 0;
+  }
+
+  .login-card-register {
+    margin: 0;
+    width: 500px;
+  }
+}
