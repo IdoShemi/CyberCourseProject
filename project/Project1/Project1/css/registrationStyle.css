@@ -33,7 +33,7 @@ body {
 }
 
 .login-form .input-box,
-.login-form > button {
+.login-form > input[type=submit] {
   width: 100%;
   height: 50px;
 }
@@ -45,44 +45,44 @@ body {
   margin-top: 15px;
 }
 
-.login-form .input-box #togglePassword {
-  position: absolute;
-  cursor: pointer;
-  color: black;
+.login-form .input-box #togglePassword, .login-form .input-box #togglePassword1 {
+    position: absolute;
+    cursor: pointer;
+    color: black;
 }
 
-.login-form .input-box input {
-  border: 2px solid #ebebeb;
-  font-family: inherit;
-  font: size 15px;
-  padding: 0 30px;
-  border-radius: 1.25rem;
-  transition: all 0.375s;
+.login-form .input-box input[type=text], input[type=password] {
+    border: 2px solid #ebebeb;
+    font-family: inherit;
+    font: size 15px;
+    padding: 0 30px;
+    border-radius: 1.25rem;
+    transition: all 0.375s;
 }
 
-.login-form .input-box input:hover {
-  border: 2px solid rgb(64, 197, 224);
+.login-form .input-box input[type=text]:hover, .login-form .input-box input[type=password]:hover {
+    border: 2px solid rgb(64, 197, 224);
 }
 
-.login-form > button {
-  cursor: pointer;
-  width: 100%;
-  padding: 0 16px;
-  margin-top: 5px;
-  border-radius: 1.25rem;
-  background: rgb(4, 24, 73);
-  border: 2px solid rgba(255, 255, 255, 0.5);
-  color: #f9f9f9;
-  font-family: inherit;
-  font-size: 1rem;
-  font-weight: 600;
-  text-align: center;
-  letter-spacing: 2px;
-  transition: all 0.375s;
+.login-form > input[type=submit] {
+    cursor: pointer;
+    width: 100%;
+    padding: 0 16px;
+    margin-top: 5px;
+    border-radius: 1.25rem;
+    background: rgb(4, 24, 73);
+    border: 2px solid rgba(255, 255, 255, 0.5);
+    color: #f9f9f9;
+    font-family: inherit;
+    font-size: 1rem;
+    font-weight: 600;
+    text-align: center;
+    letter-spacing: 2px;
+    transition: all 0.375s;
 }
 
-.login-form > button:hover {
-  background: rgb(64, 197, 224);
+.login-form > input[type=submit]:hover {
+    background: rgb(64, 197, 224);
 }
 
 .login-card-register {
@@ -105,46 +105,46 @@ body {
   margin: 0 0 40px;
 }
 
-.login-form .input-box input {
-  width: 92%;
-  height: 50px;
+.login-form .input-box input[type=text], .login-form .input-box input[type=password] {
+    width: 92%;
+    height: 50px;
 }
 
-.login-form .input-box-names input {
-  border: 2px solid #ebebeb;
-  font-family: inherit;
-  font: size 15px;
-  padding: 0 5px;
-  border-radius: 1.25rem;
-  transition: all 0.375s;
-  width: 44%;
-  height: 50px;
-  margin: 5px;
-  text-align: center;
+.login-form .input-box-names input[type=text], .login-form .input-box-names input[type=password] {
+    border: 2px solid #ebebeb;
+    font-family: inherit;
+    font: size 15px;
+    padding: 0 5px;
+    border-radius: 1.25rem;
+    transition: all 0.375s;
+    width: 44%;
+    height: 50px;
+    margin: 5px;
+    text-align: center;
 }
 
-.login-form .input-box-names input:hover {
-  border: 2px solid rgb(64, 197, 224);
+.login-form .input-box-names input[type=text]:hover, .login-form .input-box-names input[type=password]:hover {
+    border: 2px solid rgb(64, 197, 224);
 }
 
-.login-form .input-box-password input {
-  display: grid;
-  border: 2px solid #ebebeb;
-  font-family: inherit;
-  font: size 15px;
-  padding: 0 5px;
-  border-radius: 1.25rem;
-  transition: all 0.375s;
-  width: 92%;
-  height: 50px;
-  margin-left: 17px;
-  padding-left: 27px;
-  justify-content: space-between;
+.login-form .input-box-password input[type=text], .login-form .input-box-password input[type=password] {
+    display: grid;
+    border: 2px solid #ebebeb;
+    font-family: inherit;
+    font: size 15px;
+    padding: 0 5px;
+    border-radius: 1.25rem;
+    transition: all 0.375s;
+    width: 92%;
+    height: 50px;
+    margin-left: 17px;
+    padding-left: 27px;
+    justify-content: space-between;
 }
 
-.login-card-register button {
-  margin: auto;
-  width: 50%;
+.login-card-register input[type=submit] {
+    margin: auto;
+    width: 50%;
 }
 .login-card-register .icon-back {
   position: absolute;
