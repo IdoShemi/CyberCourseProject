@@ -35,7 +35,7 @@
                 <i class="fa-solid fa-eye" id="togglePassword"></i>
             </div>
             <div class="input-box">
-                <asp:TextBox TextMode="Password" runat="server" PlaceHolder="Password" ID="passwordVerifyBox"></asp:TextBox>
+                <asp:TextBox TextMode="Password" runat="server" PlaceHolder="Verify Password" ID="passwordVerifyBox"></asp:TextBox>
                 <i class="fa-solid fa-eye" id="togglePassword1" style="cursor: pointer;"></i>
             </div>
 

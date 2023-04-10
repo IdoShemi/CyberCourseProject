@@ -60,21 +60,17 @@
             </div>
             <span class="forget-remember">
                 <div class="password-options">
-                    <a href="/html/forgotPassword.html">Forgot Password?</a>
+                    <a href="forgotPassword.aspx">Forgot Password?</a>
                     <!-- <a href="#">Reset Password</a> -->
                 </div>
 
-                <div class="remember-me">
-                    <label>
-                        <asp:CheckBox runat="server" ID="checkBox1" Text="Remember me" />
-                        <%--<input type="checkbox" />Remember me--%></label>
-                </div>
+                
             </span>
             <asp:Button ID="btnLogin" runat="server" Text="LOGIN" OnClick="btnLogin_Click" />
 <%--            <button type="s">LOGIN</button>--%>
             <div class="register">
                 Don't have an account?
-                <a href="/html/registration.html" class="register-link">Register</a>
+                <a href="registration.aspx" class="register-link">Register</a>
                 </p>
             </div>
         </form>
