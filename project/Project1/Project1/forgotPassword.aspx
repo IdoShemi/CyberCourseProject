@@ -12,6 +12,18 @@
         href="/css/forgotPasswordStyle.css"
         type="text/css" />
     <title>Forgot Password</title>
+    <style>
+        .error {
+    color: red;
+    font-weight: bold;
+    background-color: rgba(223, 207, 207, 0.872);
+    border: 0.5px solid red;
+    padding: 5px;
+    padding-top:10px;
+    /* display: none; */
+}
+
+    </style>
 </head>
 <body>
     <div class="login-card">
@@ -24,6 +36,8 @@
                 <asp:TextBox runat="server" PlaceHolder="Email" ID="email"></asp:TextBox>
             </div>
             <asp:Button ID="btnGetCode" runat="server" Text="Get Code" OnClick="btnGetCode_func" />
+            <br />
+            <asp:Label CssClass="error" runat="server" ID="err_label" Visible="false"></asp:Label>
         </form>
     </div>
 

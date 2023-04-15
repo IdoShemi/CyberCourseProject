@@ -9,6 +9,18 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Verification Page</title>
     <link href="css/verificationPage.css" rel="stylesheet" />
+    <style>
+        .error {
+    color: red;
+    font-weight: bold;
+    background-color: rgba(223, 207, 207, 0.872);
+    border: 0.5px solid red;
+    padding: 5px;
+    padding-top:10px;
+    /* display: none; */
+}
+
+    </style>
 </head>
 <body>
     <div class="verification-card">
@@ -22,7 +34,8 @@
             <div class="verification-input-form">
                 <asp:Button ID="btnGetCode" runat="server" Text="Get Code" OnClick="btnGetCode_func" />
             </div>
-
+                        <br />
+            <asp:Label CssClass="error" runat="server" ID="err_label" Visible="false"></asp:Label>
 
 
         </form>

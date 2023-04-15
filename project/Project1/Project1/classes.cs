@@ -12,6 +12,9 @@ using Newtonsoft.Json;// install on the project
 using System.Text.Json;
 using Microsoft.Extensions.Configuration; // make sure to manage nuget packages Microsoft.Extensions.Configuration.Json and Microsoft.Extensions.Configuration
 using Newtonsoft.Json.Linq;
+using MatakDBConnector;
+using System.IO;
+using System.Web.Hosting;
 
 namespace Project1
 {
@@ -120,14 +123,19 @@ namespace Project1
         }
 
 
-        private static string GetHashedPassword(string password)
+        internal static string GetHashedPassword(string password)
         {
             //  we need to add the function that reads the salt string from the database because it's not secured to put it in the code
+            SltModel mtkSltModel = new SltModel(); // AuthModel contains all methods to work with email verification (auth_verification) table
+            string outString = "";
+            List<Slt> slts = new List<Slt>(); // explained above why it's a list
+            slts = mtkSltModel.GetAllSlt(out outString);
 
-            // Generate a random salt
-            // add the reading from the sql -- change
+            Console.WriteLine("GetAllSlt result: ");
 
-            byte[] salt = Encoding.UTF8.GetBytes("MySalt123");
+
+
+            byte[] salt = Encoding.UTF8.GetBytes(slts[0].Salt);
 
             // Hash the password with the salt using the PBKDF2 algorithm
             byte[] hashedPassword;
@@ -158,16 +166,14 @@ namespace Project1
             string body = $"hi \n your password recovery code is: {confirmationString}";
             try
             {
-                //IConfiguration config = new ConfigurationBuilder()
-                //    .AddJsonFile("TopSecretDoNotOpen.json", optional: true, reloadOnChange: true)
-                //    .Build();
 
-                //string email = config["Email"];
-                //string password = config["EmailPassword"];
-
+                AuthModel mtkAuthModel = new AuthModel(); // AuthModel contains all methods to work with email verification (auth_verification) table
+                string outString = "";
+                List<Auth> auths = new List<Auth>(); // explained above why it's a list
+                auths = mtkAuthModel.GetAllAuths(out outString);
                 // get from db -- change
-                string email = "CyberVerifyCode@gmail.com";
-                string password = "dauvitolabxjfbxe";
+                string email = auths[0].Email;
+                string password = auths[0].Password;
 
                 MailMessage mail = new MailMessage();
                 SmtpClient smtpServer = new SmtpClient("smtp.gmail.com");
@@ -219,4 +225,135 @@ namespace Project1
         }
     }
     */
+
+
+
+    public class PasswordChecker
+    {
+
+        internal static bool CheckPassword(string password, out string error, string passwordsJson = "")
+        {
+            error = "";
+            // Read the JSON file into a string
+            var filePath = HostingEnvironment.MapPath("~/password_config.json");
+
+            var jsonString = File.ReadAllText(filePath);
+
+            // Parse the JSON string into a JsonDocument
+            var jsonDoc = JsonDocument.Parse(jsonString);
+
+            // Get the root element of the JsonDocument
+            var rootElement = jsonDoc.RootElement;
+
+            // Read the values from the root element and assign them to C# variables
+            int passwordLength = rootElement.GetProperty("passwordLength").GetInt32();
+            bool complexPassword = rootElement.GetProperty("complexPassword").GetBoolean();
+            int passwordHistory = rootElement.GetProperty("passwordHistory").GetInt32();
+            bool preventDictionaryAttack = rootElement.GetProperty("preventDictionaryAttack").GetBoolean();
+            int loginAttempts = rootElement.GetProperty("loginAttempts").GetInt32();
+
+
+            // Dispose the JsonDocument to release resources
+            jsonDoc.Dispose();
+
+
+            // בדיקה שהסיסמא תואמת לדרישות המוגדרות בקובץ הקונפיגורציה
+            bool isValidPassword = true;
+
+            if (password.Length < passwordLength)
+            {
+                error = ($"Your password must be at least {passwordLength} characters long.");
+                return false;
+            }
+
+            if (complexPassword)
+            {
+                int[] countArr = new int[4] { 0, 0, 0, 0 };
+                foreach (char c in password)
+                {
+                    if (char.IsDigit(c))
+                        countArr[0] = 1;
+                    else if (char.IsUpper(c))
+                        countArr[1] = 1;
+                    else if (char.IsLower(c))
+                        countArr[2] = 1;
+                    else
+                        countArr[3] = 1;
+                }
+                if (countArr.Sum() < 3)
+                {
+                    error = ($"Your password must be Contain 3 of the 4 types of characters");
+                    return false;
+                }
+            }
+
+            // בדיקת היסטוריית הסיסמאות
+            PasswordJsonHandler passwords = new PasswordJsonHandler(passwordsJson);
+            // get the json from the data or get empty when it is new user
+            string hashedpassword = PasswordJsonHandler.GetHashedPassword(password);
+            if (!passwords.CompareNewPassword(hashedpassword, passwordHistory))
+            {
+                error = ("Your password cannot be the same as your previous passwords.");
+                return false;
+            }
+
+            // מניעת התקפות מילון
+            if (preventDictionaryAttack && IsCommonPassword(password))
+            {
+                error = ("common password. Please choose a different password.");
+                return false;
+            }
+
+            // later
+
+
+            //// בדיקת מספר ניסיונות ההתחברות
+            //int failedLoginAttempts = 0;
+            //bool isLoggedIn = false;
+
+            //while (failedLoginAttempts < loginAttempts && !isLoggedIn)
+            //{
+            //    Console.WriteLine("Please enter your password to login:");
+            //    string inputPassword = Console.ReadLine();
+
+            //    if (inputPassword == password)
+            //    {
+            //        Console.WriteLine("Login successful!");
+            //        isLoggedIn = true;
+            //    }
+            //    else
+            //    {
+            //        Console.WriteLine("Incorrect password. Please try again.");
+            //        failedLoginAttempts++;
+            //    }
+            //}
+
+            //if (failedLoginAttempts == loginAttempts)
+            //{
+            //    Console.WriteLine("You have exceeded the maximum number of login attempts. Please try again later.");
+            //}
+
+            return true;
+        }
+
+
+
+
+
+
+        static bool IsCommonPassword(string password)
+        {
+            // Read the list of common passwords from the file
+            
+            using (StreamReader sr = new StreamReader(HostingEnvironment.MapPath("~/commonPasswords.txt")))
+            {
+                string line;
+                while ((line = sr.ReadLine()) != null)
+                    if (line == password)
+                        return true;
+            }
+
+            return false;
+        }
+    }
 }

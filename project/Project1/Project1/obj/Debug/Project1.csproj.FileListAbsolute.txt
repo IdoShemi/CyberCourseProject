@@ -93,3 +93,15 @@ C:\Users\User\Desktop\CyberCourseProject\project\Project1\Project1\bin\Newtonsof
 C:\Users\User\Desktop\CyberCourseProject\project\Project1\Project1\bin\System.Text.Encodings.Web.xml
 C:\Users\User\Desktop\CyberCourseProject\project\Project1\Project1\bin\System.Text.Json.xml
 C:\Users\User\Desktop\CyberCourseProject\project\Project1\Project1\bin\System.ValueTuple.xml
+C:\Users\User\Desktop\CyberCourseProject\project\Project1\Project1\bin\Microsoft.Bcl.HashCode.dll
+C:\Users\User\Desktop\CyberCourseProject\project\Project1\Project1\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\User\Desktop\CyberCourseProject\project\Project1\Project1\bin\Npgsql.dll
+C:\Users\User\Desktop\CyberCourseProject\project\Project1\Project1\bin\System.Collections.Immutable.dll
+C:\Users\User\Desktop\CyberCourseProject\project\Project1\Project1\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\User\Desktop\CyberCourseProject\project\Project1\Project1\bin\System.Threading.Channels.dll
+C:\Users\User\Desktop\CyberCourseProject\project\Project1\Project1\bin\Microsoft.Bcl.HashCode.xml
+C:\Users\User\Desktop\CyberCourseProject\project\Project1\Project1\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\User\Desktop\CyberCourseProject\project\Project1\Project1\bin\Npgsql.xml
+C:\Users\User\Desktop\CyberCourseProject\project\Project1\Project1\bin\System.Collections.Immutable.xml
+C:\Users\User\Desktop\CyberCourseProject\project\Project1\Project1\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\User\Desktop\CyberCourseProject\project\Project1\Project1\bin\System.Threading.Channels.xml

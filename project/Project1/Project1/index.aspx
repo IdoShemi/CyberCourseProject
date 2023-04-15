@@ -9,6 +9,19 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link rel="stylesheet" href="/css/loginStyle.css" type="text/css" />
     <title>Login Page</title>
+
+    <style>
+        .error {
+    color: red;
+    font-weight: bold;
+    background-color: rgba(223, 207, 207, 0.872);
+    border: 0.5px solid red;
+    padding: 5px;
+    padding-top:10px;
+    /* display: none; */
+}
+
+    </style>
 </head>
 <body>
     <div class="login-card">
@@ -73,6 +86,10 @@
                 <a href="registration.aspx" class="register-link">Register</a>
                 </p>
             </div>
+
+
+                        <br />
+            <asp:Label CssClass="error" runat="server" ID="err_label" Visible="false"></asp:Label>
         </form>
     </div>
 
