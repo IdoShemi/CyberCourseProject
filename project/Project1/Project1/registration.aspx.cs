@@ -47,7 +47,7 @@ namespace Project1
             p.InsertPassword(hashedPassword);
             string pj = p.BuildJson();
             UserModel mtkUserModel = new UserModel();
-            User mtkNewUser = new User(0, pj, 0, last_name.Text, first_name.Text, 1, 1, mailBox.Text, "nickname");
+            User mtkNewUser = new User(0, pj, 0, last_name.Text, first_name.Text, 1, 1, mailBox.Text, "nickname",DateTime.Now, 0);
             mtkUserModel.AddNewUser(mtkNewUser, out outString);
         }
 

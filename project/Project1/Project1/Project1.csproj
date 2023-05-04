@@ -52,8 +52,9 @@
     <Reference Include="MailKit, Version=3.6.0.0, Culture=neutral, PublicKeyToken=4e064fe7c44a8f1b, processorArchitecture=MSIL">
       <HintPath>..\packages\MailKit.3.6.0\lib\net48\MailKit.dll</HintPath>
     </Reference>
-    <Reference Include="MatakDBConnector">
-      <HintPath>..\..\..\..\MatakDBConnector.dll</HintPath>
+    <Reference Include="MatakDBConnector, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\Downloads\MatakDBConnector.dll</HintPath>
     </Reference>
     <Reference Include="Microsoft.Bcl.AsyncInterfaces, Version=7.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
       <HintPath>..\packages\Microsoft.Bcl.AsyncInterfaces.7.0.0\lib\net462\Microsoft.Bcl.AsyncInterfaces.dll</HintPath>
@@ -150,7 +151,9 @@
     <Content Include="backgrounds\background6.PNG" />
     <Content Include="backgrounds\edit-icon.jpg" />
     <Content Include="backgrounds\transparant-icon-edit.png" />
+    <Content Include="changePassword.aspx" />
     <Content Include="commonPasswords.txt" />
+    <Content Include="css\changePassword.css" />
     <Content Include="css\forgotPasswordStyle.css" />
     <Content Include="css\loginStyle.css" />
     <Content Include="css\registrationStyle.css" />
@@ -160,12 +163,21 @@
     <Content Include="forgotPassword.aspx" />
     <Content Include="index.aspx" />
     <Content Include="registration.aspx" />
+    <Content Include="resetPassword.aspx" />
+    <Content Include="SystemScreen.aspx" />
     <Content Include="txtFiles\links.txt" />
     <Content Include="txtFiles\navigation bar.txt" />
     <Content Include="verification.aspx" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="changePassword.aspx.cs">
+      <DependentUpon>changePassword.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="changePassword.aspx.designer.cs">
+      <DependentUpon>changePassword.aspx</DependentUpon>
+    </Compile>
     <Compile Include="classes.cs" />
     <Compile Include="forgotPassword.aspx.cs">
       <DependentUpon>forgotPassword.aspx</DependentUpon>
@@ -188,6 +200,20 @@
     </Compile>
     <Compile Include="registration.aspx.designer.cs">
       <DependentUpon>registration.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="resetPassword.aspx.cs">
+      <DependentUpon>resetPassword.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="resetPassword.aspx.designer.cs">
+      <DependentUpon>resetPassword.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="SystemScreen.aspx.cs">
+      <DependentUpon>SystemScreen.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="SystemScreen.aspx.designer.cs">
+      <DependentUpon>SystemScreen.aspx</DependentUpon>
     </Compile>
     <Compile Include="verification.aspx.cs">
       <DependentUpon>verification.aspx</DependentUpon>

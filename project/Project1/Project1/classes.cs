@@ -304,35 +304,6 @@ namespace Project1
                 return false;
             }
 
-            // later
-
-
-            //// בדיקת מספר ניסיונות ההתחברות
-            //int failedLoginAttempts = 0;
-            //bool isLoggedIn = false;
-
-            //while (failedLoginAttempts < loginAttempts && !isLoggedIn)
-            //{
-            //    Console.WriteLine("Please enter your password to login:");
-            //    string inputPassword = Console.ReadLine();
-
-            //    if (inputPassword == password)
-            //    {
-            //        Console.WriteLine("Login successful!");
-            //        isLoggedIn = true;
-            //    }
-            //    else
-            //    {
-            //        Console.WriteLine("Incorrect password. Please try again.");
-            //        failedLoginAttempts++;
-            //    }
-            //}
-
-            //if (failedLoginAttempts == loginAttempts)
-            //{
-            //    Console.WriteLine("You have exceeded the maximum number of login attempts. Please try again later.");
-            //}
-
             return true;
         }
 

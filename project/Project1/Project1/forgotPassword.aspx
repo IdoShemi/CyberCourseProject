@@ -36,7 +36,6 @@
                 <asp:TextBox runat="server" PlaceHolder="Email" ID="email"></asp:TextBox>
             </div>
             <asp:Button ID="btnGetCode" runat="server" Text="Get Code" OnClick="btnGetCode_func" />
-            <br />
             <asp:Label CssClass="error" runat="server" ID="err_label" Visible="false"></asp:Label>
         </form>
     </div>

@@ -4,7 +4,7 @@ using System.Linq;
 using System.Web;
 using System.Web.UI;
 using System.Web.UI.WebControls;
-
+using MatakDBConnector;
 namespace Project1
 {
     public partial class verification : System.Web.UI.Page
@@ -16,8 +16,12 @@ namespace Project1
 
         protected void btnGetCode_func(object sender, EventArgs e)
         {
-            if (VerificationCode.Text.ToString() == Session["confirmationString"].ToString())
-                Response.Redirect("systemScreen.aspx");
+            string token = "";
+            string verificationCode = VerificationCode.Text.ToString();
+            // add reading token
+            // check if not null because token is randomly generated
+            //if ( ) // read token from db and insert
+                Response.Redirect("systemScreen.aspx?t="+ token);
         }
     }
 }

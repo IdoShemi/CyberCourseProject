@@ -6,7 +6,7 @@ using System.Web.UI;
 using System.Web.UI.WebControls;
 using System.Text.RegularExpressions;
 using System.Net;
-
+using MatakDBConnector;
 namespace Project1
 {
     public partial class forgotPassword : System.Web.UI.Page
@@ -23,29 +23,32 @@ namespace Project1
             string mail = email.Text.ToString();
             if (!IsValidEmail(mail))
             { // change to text label
-                email.Text = "not valid";
+                PrintError("Not Valid");
                 return;
             }
-            //if () // check if exits in database -- wait for matakdb from oleg
-            //{
-            //    return;
-            //}
+
+            // preparation - create user model objects
+            User mtkUser = new User();
+            UserModel mtkUserModel = new UserModel();
+            string outString = "";
+            mtkUser = mtkUserModel.GetUserByEmail(mail, out outString);
+            if (mtkUser == null) // check if mail exits in database 
+            {
+                PrintError("Mail Not Found");
+                return;
+            }
+
             // send mail and redirect to verification page
-            // get mail credentials from database -- wait for oleg, for now we can insert the crenditials non secure
-
             string confirmationString = EmailSender.SendEmail(mail);
-            Session["confirmationString"] = confirmationString;
-
-            //            Session["confirmationString"] = confirmationString;
-            // don't forget to check in the verification page
-
+            Session["confirmationString"] = confirmationString; // change to db instead of session
+            Session["userMail"] = mail;
             Response.Redirect("verification.aspx");
 
         }
 
 
         bool IsValidEmail(string email)
-        { // we used regex because third part library did not work
+        { 
             if (string.IsNullOrEmpty(email))
             {
                 return false;
@@ -53,6 +56,12 @@ namespace Project1
 
             var regex = new Regex(@"^([\w\.\-]+)@([\w\-]+)((\.(\w){2,3})+)$");
             return regex.IsMatch(email);
+        }
+
+        protected void PrintError(string err)
+        {
+            err_label.Visible = true;
+            err_label.Text = err;
         }
     }
 }
