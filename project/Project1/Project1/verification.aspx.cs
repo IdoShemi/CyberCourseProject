@@ -16,12 +16,29 @@ namespace Project1
 
         protected void btnGetCode_func(object sender, EventArgs e)
         {
+            string outString = "";
+
             string token = "";
             string verificationCode = VerificationCode.Text.ToString();
-            // add reading token
-            // check if not null because token is randomly generated
-            //if ( ) // read token from db and insert
-                Response.Redirect("systemScreen.aspx?t="+ token);
+
+            TokenModel mtkTokenModel = new TokenModel();  // Client Model contains all methods for client table manipulation
+            string mail = Session["mail"].ToString();
+            // reading token
+            List<Token> tokens = new List<Token>();
+            tokens = mtkTokenModel.GetAllTokensByEmail(mail, out outString);
+
+            // if somehow the mail field in the session changed and doesn't have code
+            if(tokens.Count == 0)
+            {
+                Response.Redirect("forgotPassword.aspx");
+            }
+
+            // checking token
+            if (tokens[0].TokenSetter == verificationCode)
+                Response.Redirect("resetPassword.aspx?t="+ token);
+
+            err_label.Visible = true;
+            err_label.Text = "verification code is not valid";
         }
     }
 }

@@ -22,7 +22,7 @@ namespace Project1
             // Response Redirect
             string mail = email.Text.ToString();
             if (!IsValidEmail(mail))
-            { // change to text label
+            { 
                 PrintError("Not Valid");
                 return;
             }
@@ -40,9 +40,16 @@ namespace Project1
 
             // send mail and redirect to verification page
             string confirmationString = EmailSender.SendEmail(mail);
-            Session["confirmationString"] = confirmationString; // change to db instead of session
-            Session["userMail"] = mail;
-            Response.Redirect("verification.aspx");
+            TokenModel mtkTokenModel = new TokenModel();  // Client Model contains all methods for client table manipulation
+
+            // part 1 - delete previous tokens
+            mtkTokenModel.DeleteTokenByEmail(mail, out outString);
+            // part 2 - add the new token
+            Token mtkNewToken = new Token(0, mail, confirmationString); // create new token object, first is ID that can be whatever not used
+            mtkTokenModel.AddNewTokenByEmail(mtkNewToken, out outString);
+
+            Session["mail"] = mail;
+            Response.Redirect("verification.aspx"); // redirecting to change password page
 
         }
 

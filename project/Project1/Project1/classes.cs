@@ -131,9 +131,6 @@ namespace Project1
             List<Slt> slts = new List<Slt>(); // explained above why it's a list
             slts = mtkSltModel.GetAllSlt(out outString);
 
-            Console.WriteLine("GetAllSlt result: ");
-
-
 
             byte[] salt = Encoding.UTF8.GetBytes(slts[0].Salt);
 
@@ -149,9 +146,16 @@ namespace Project1
             string saltString = Convert.ToBase64String(salt);
 
             // Output the hashed password and salt
-            Console.WriteLine("Hashed password: " + hashedPasswordString);
-            Console.WriteLine("Salt: " + saltString);
+            //Console.WriteLine("Hashed password: " + hashedPasswordString);
+            //Console.WriteLine("Salt: " + saltString);
             return hashedPasswordString;
+        }
+
+        public void DeleteFirst()
+        {
+            for (int i = 0; i < length-1; i++)
+                this.passwords[i] = this.passwords[i + 1];
+            this.passwords[length - 1] = "";
         }
     }
 

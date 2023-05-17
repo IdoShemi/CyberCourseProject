@@ -18,21 +18,19 @@ namespace Project1
 
         protected void btnLogin_Click(object sender, EventArgs e)
         {
-            // check mail and password - input validation - check if necessary
-            // make sure to import the handle password library and use it
-            // sql 
+            // test this page because we changed stuff
 
-            // preparation - create user model objects
+
+            // preparation
             User mtkUser = new User();
             UserModel mtkUserModel = new UserModel();
             string outString = "";
 
-            // check for the login attempts - if we need to count it in a database because changing mail can reset on local code. - elaborate to lecturer
 
             // part 1 - check if user exists in db
             string mail = mailBox.Text;
             string pass = passwordBox.Text;
-            mtkUser = mtkUserModel.GetUserByEmail(mail, out outString);
+            mtkUser = mtkUserModel.GetUserByEmail(mail, out outString); // change to Vulnerable ASAP!!!!
             if (mtkUser == null)
             {
                 PrintError();
@@ -70,11 +68,29 @@ namespace Project1
 
             // part 2 - check if password matches
             PasswordJsonHandler handler = new PasswordJsonHandler(mtkUser.Password);
-            if (!handler.CompareCurrentPassword(pass))
+
+            // secured part 
+            //if (!handler.CompareCurrentPassword(pass))
+            //{
+            //    mtkUserModel.SetLoginAttempts(mail, userLoginAttempts + 1, out outString);
+            //    PrintError();
+            //    return;
+            //}
+
+            // vulnerable way to check password
+            handler.DeleteFirst();
+            string hashedPassword = PasswordJsonHandler.GetHashedPassword(pass);
+            handler.InsertPassword(hashedPassword);
+            string pj = handler.BuildJson();
+
+            bool result = mtkUserModel.VerifyEmailPasswordMatchVulnerable(mail, pj, out outString);
+            //Response.Write("hellO"+result + "\n"+ outString);
+
+            if (!result)
             {
-                mtkUserModel.SetLoginAttempts(mail, userLoginAttempts+1, out outString);
+                mtkUserModel.SetLoginAttempts(mail, userLoginAttempts + 1, out outString);
                 PrintError();
-                return; 
+                return;
             }
 
             // connected

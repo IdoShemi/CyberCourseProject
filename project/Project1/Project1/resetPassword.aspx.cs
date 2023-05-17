@@ -16,17 +16,20 @@ namespace Project1
 
         protected void ChangePass_Click(object sender, EventArgs e)
         {
-            // not tested, after db modification test it !!!!
-            // get token from db
-            // get user mail by token
-            string mail = "";
+            string outString = "";
 
+            // not tested, after db modification test it !!!!
+
+            string token = Request.QueryString["t"];
+            TokenModel mtkTokenModel = new TokenModel();  // Client Model contains all methods for client table manipulation
+            // reading token
+            List<Token> tokens = new List<Token>();
+            tokens = mtkTokenModel.GetAllEmailsByToken(token, out outString);
+            string mail = tokens[0].TokenSetter; 
 
             // preparation - create user model objects
             User mtkUser = new User();
             UserModel mtkUserModel = new UserModel();
-            string outString = "";
-            //string mail = Session["userMail"].ToString();
 
             // part 1 - get the username from db
             mtkUser = mtkUserModel.GetUserByEmail(mail, out outString);

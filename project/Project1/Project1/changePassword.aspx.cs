@@ -36,7 +36,7 @@ namespace Project1
 
             if (!handler.CompareCurrentPassword(password))
             {
-                PrintError("One Of The Fields Is Incorrect"); // ask lecturer if we need to provide more specific error
+                PrintError("One Of The Fields Is Incorrect");
                 return;
             }
 
