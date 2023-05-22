@@ -1,0 +1,9 @@
+backrounds:
+https://app.haikei.app
+
+fonts:
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&family=Ubuntu:ital,wght@1,300&display=swap');
+
+lock icon:
+<i class="fa-solid fa-lock"></i>
+<i class="fa-solid fa-user"></i>

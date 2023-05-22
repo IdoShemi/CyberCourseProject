@@ -1,0 +1,493 @@
+C:\Users\User\Desktop\CyberCourseProject\project\Project1\Project1\bin\Project1.dll.config
+C:\Users\User\Desktop\CyberCourseProject\project\Project1\Project1\bin\Project1.dll
+C:\Users\User\Desktop\CyberCourseProject\project\Project1\Project1\bin\Project1.pdb
+C:\Users\User\Desktop\CyberCourseProject\project\Project1\Project1\bin\roslyn\csc.exe
+C:\Users\User\Desktop\CyberCourseProject\project\Project1\Project1\bin\roslyn\csc.exe.config
+C:\Users\User\Desktop\CyberCourseProject\project\Project1\Project1\bin\roslyn\csc.rsp
+C:\Users\User\Desktop\CyberCourseProject\project\Project1\Project1\bin\roslyn\csi.exe
+C:\Users\User\Desktop\CyberCourseProject\project\Project1\Project1\bin\roslyn\csi.exe.config
+C:\Users\User\Desktop\CyberCourseProject\project\Project1\Project1\bin\roslyn\csi.rsp
+C:\Users\User\Desktop\CyberCourseProject\project\Project1\Project1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\User\Desktop\CyberCourseProject\project\Project1\Project1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\User\Desktop\CyberCourseProject\project\Project1\Project1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\User\Desktop\CyberCourseProject\project\Project1\Project1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\User\Desktop\CyberCourseProject\project\Project1\Project1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\User\Desktop\CyberCourseProject\project\Project1\Project1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\User\Desktop\CyberCourseProject\project\Project1\Project1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\User\Desktop\CyberCourseProject\project\Project1\Project1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\User\Desktop\CyberCourseProject\project\Project1\Project1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\User\Desktop\CyberCourseProject\project\Project1\Project1\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\User\Desktop\CyberCourseProject\project\Project1\Project1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\User\Desktop\CyberCourseProject\project\Project1\Project1\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\User\Desktop\CyberCourseProject\project\Project1\Project1\bin\roslyn\System.AppContext.dll
+C:\Users\User\Desktop\CyberCourseProject\project\Project1\Project1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\User\Desktop\CyberCourseProject\project\Project1\Project1\bin\roslyn\System.Console.dll
+C:\Users\User\Desktop\CyberCourseProject\project\Project1\Project1\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\User\Desktop\CyberCourseProject\project\Project1\Project1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\User\Desktop\CyberCourseProject\project\Project1\Project1\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\User\Desktop\CyberCourseProject\project\Project1\Project1\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\User\Desktop\CyberCourseProject\project\Project1\Project1\bin\roslyn\System.IO.Compression.dll
+C:\Users\User\Desktop\CyberCourseProject\project\Project1\Project1\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\User\Desktop\CyberCourseProject\project\Project1\Project1\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\User\Desktop\CyberCourseProject\project\Project1\Project1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\User\Desktop\CyberCourseProject\project\Project1\Project1\bin\roslyn\System.Net.Http.dll
+C:\Users\User\Desktop\CyberCourseProject\project\Project1\Project1\bin\roslyn\System.Net.Sockets.dll
+C:\Users\User\Desktop\CyberCourseProject\project\Project1\Project1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\User\Desktop\CyberCourseProject\project\Project1\Project1\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\User\Desktop\CyberCourseProject\project\Project1\Project1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\User\Desktop\CyberCourseProject\project\Project1\Project1\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\User\Desktop\CyberCourseProject\project\Project1\Project1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\User\Desktop\CyberCourseProject\project\Project1\Project1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\User\Desktop\CyberCourseProject\project\Project1\Project1\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\User\Desktop\CyberCourseProject\project\Project1\Project1\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\User\Desktop\CyberCourseProject\project\Project1\Project1\bin\roslyn\System.ValueTuple.dll
+C:\Users\User\Desktop\CyberCourseProject\project\Project1\Project1\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\User\Desktop\CyberCourseProject\project\Project1\Project1\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\User\Desktop\CyberCourseProject\project\Project1\Project1\bin\roslyn\System.Xml.XPath.dll
+C:\Users\User\Desktop\CyberCourseProject\project\Project1\Project1\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\User\Desktop\CyberCourseProject\project\Project1\Project1\bin\roslyn\vbc.exe
+C:\Users\User\Desktop\CyberCourseProject\project\Project1\Project1\bin\roslyn\vbc.exe.config
+C:\Users\User\Desktop\CyberCourseProject\project\Project1\Project1\bin\roslyn\vbc.rsp
+C:\Users\User\Desktop\CyberCourseProject\project\Project1\Project1\bin\roslyn\VBCSCompiler.exe
+C:\Users\User\Desktop\CyberCourseProject\project\Project1\Project1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\User\Desktop\CyberCourseProject\project\Project1\Project1\bin\BouncyCastle.Crypto.dll
+C:\Users\User\Desktop\CyberCourseProject\project\Project1\Project1\bin\FluentValidation.dll
+C:\Users\User\Desktop\CyberCourseProject\project\Project1\Project1\bin\MailKit.dll
+C:\Users\User\Desktop\CyberCourseProject\project\Project1\Project1\bin\MatakDBConnector.dll
+C:\Users\User\Desktop\CyberCourseProject\project\Project1\Project1\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\User\Desktop\CyberCourseProject\project\Project1\Project1\bin\Microsoft.Bcl.HashCode.dll
+C:\Users\User\Desktop\CyberCourseProject\project\Project1\Project1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\User\Desktop\CyberCourseProject\project\Project1\Project1\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\User\Desktop\CyberCourseProject\project\Project1\Project1\bin\Microsoft.Extensions.Configuration.dll
+C:\Users\User\Desktop\CyberCourseProject\project\Project1\Project1\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\User\Desktop\CyberCourseProject\project\Project1\Project1\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\User\Desktop\CyberCourseProject\project\Project1\Project1\bin\MimeKit.dll
+C:\Users\User\Desktop\CyberCourseProject\project\Project1\Project1\bin\Newtonsoft.Json.dll
+C:\Users\User\Desktop\CyberCourseProject\project\Project1\Project1\bin\Npgsql.dll
+C:\Users\User\Desktop\CyberCourseProject\project\Project1\Project1\bin\System.Buffers.dll
+C:\Users\User\Desktop\CyberCourseProject\project\Project1\Project1\bin\System.Collections.Immutable.dll
+C:\Users\User\Desktop\CyberCourseProject\project\Project1\Project1\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\User\Desktop\CyberCourseProject\project\Project1\Project1\bin\System.Memory.dll
+C:\Users\User\Desktop\CyberCourseProject\project\Project1\Project1\bin\System.Numerics.Vectors.dll
+C:\Users\User\Desktop\CyberCourseProject\project\Project1\Project1\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\User\Desktop\CyberCourseProject\project\Project1\Project1\bin\System.Text.Encodings.Web.dll
+C:\Users\User\Desktop\CyberCourseProject\project\Project1\Project1\bin\System.Text.Json.dll
+C:\Users\User\Desktop\CyberCourseProject\project\Project1\Project1\bin\System.Threading.Channels.dll
+C:\Users\User\Desktop\CyberCourseProject\project\Project1\Project1\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\User\Desktop\CyberCourseProject\project\Project1\Project1\bin\System.ValueTuple.dll
+C:\Users\User\Desktop\CyberCourseProject\project\Project1\Project1\bin\BouncyCastle.Crypto.xml
+C:\Users\User\Desktop\CyberCourseProject\project\Project1\Project1\bin\FluentValidation.xml
+C:\Users\User\Desktop\CyberCourseProject\project\Project1\Project1\bin\MailKit.pdb
+C:\Users\User\Desktop\CyberCourseProject\project\Project1\Project1\bin\MailKit.xml
+C:\Users\User\Desktop\CyberCourseProject\project\Project1\Project1\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\User\Desktop\CyberCourseProject\project\Project1\Project1\bin\Microsoft.Bcl.HashCode.xml
+C:\Users\User\Desktop\CyberCourseProject\project\Project1\Project1\bin\Microsoft.Extensions.Configuration.xml
+C:\Users\User\Desktop\CyberCourseProject\project\Project1\Project1\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\User\Desktop\CyberCourseProject\project\Project1\Project1\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\User\Desktop\CyberCourseProject\project\Project1\Project1\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\User\Desktop\CyberCourseProject\project\Project1\Project1\bin\MimeKit.pdb
+C:\Users\User\Desktop\CyberCourseProject\project\Project1\Project1\bin\MimeKit.xml
+C:\Users\User\Desktop\CyberCourseProject\project\Project1\Project1\bin\Newtonsoft.Json.xml
+C:\Users\User\Desktop\CyberCourseProject\project\Project1\Project1\bin\Npgsql.xml
+C:\Users\User\Desktop\CyberCourseProject\project\Project1\Project1\bin\System.Buffers.xml
+C:\Users\User\Desktop\CyberCourseProject\project\Project1\Project1\bin\System.Collections.Immutable.xml
+C:\Users\User\Desktop\CyberCourseProject\project\Project1\Project1\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\User\Desktop\CyberCourseProject\project\Project1\Project1\bin\System.Memory.xml
+C:\Users\User\Desktop\CyberCourseProject\project\Project1\Project1\bin\System.Numerics.Vectors.xml
+C:\Users\User\Desktop\CyberCourseProject\project\Project1\Project1\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\User\Desktop\CyberCourseProject\project\Project1\Project1\bin\System.Text.Encodings.Web.xml
+C:\Users\User\Desktop\CyberCourseProject\project\Project1\Project1\bin\System.Text.Json.xml
+C:\Users\User\Desktop\CyberCourseProject\project\Project1\Project1\bin\System.Threading.Channels.xml
+C:\Users\User\Desktop\CyberCourseProject\project\Project1\Project1\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\User\Desktop\CyberCourseProject\project\Project1\Project1\bin\System.ValueTuple.xml
+C:\Users\User\Desktop\CyberCourseProject\project\Project1\Project1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\User\Desktop\CyberCourseProject\project\Project1\Project1\obj\Debug\Project1.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\CyberCourseProject\project\Project1\Project1\obj\Debug\Project1.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\CyberCourseProject\project\Project1\Project1\obj\Debug\Project1.csproj.CopyComplete
+C:\Users\User\Desktop\CyberCourseProject\project\Project1\Project1\obj\Debug\Project1.dll
+C:\Users\User\Desktop\CyberCourseProject\project\Project1\Project1\obj\Debug\Project1.pdb
+C:\Users\User\Desktop\CyberCourseProject\project\Project1\Project1\bin\FluentAssertions.dll
+C:\Users\User\Desktop\CyberCourseProject\project\Project1\Project1\bin\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Users\User\Desktop\CyberCourseProject\project\Project1\Project1\bin\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\User\Desktop\CyberCourseProject\project\Project1\Project1\bin\Microsoft.AspNetCore.Hosting.dll
+C:\Users\User\Desktop\CyberCourseProject\project\Project1\Project1\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\User\Desktop\CyberCourseProject\project\Project1\Project1\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\User\Desktop\CyberCourseProject\project\Project1\Project1\bin\Microsoft.AspNetCore.Http.dll
+C:\Users\User\Desktop\CyberCourseProject\project\Project1\Project1\bin\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\User\Desktop\CyberCourseProject\project\Project1\Project1\bin\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\User\Desktop\CyberCourseProject\project\Project1\Project1\bin\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+C:\Users\User\Desktop\CyberCourseProject\project\Project1\Project1\bin\Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.dll
+C:\Users\User\Desktop\CyberCourseProject\project\Project1\Project1\bin\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\User\Desktop\CyberCourseProject\project\Project1\Project1\bin\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\User\Desktop\CyberCourseProject\project\Project1\Project1\bin\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\User\Desktop\CyberCourseProject\project\Project1\Project1\bin\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\User\Desktop\CyberCourseProject\project\Project1\Project1\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\User\Desktop\CyberCourseProject\project\Project1\Project1\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\User\Desktop\CyberCourseProject\project\Project1\Project1\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\User\Desktop\CyberCourseProject\project\Project1\Project1\bin\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\User\Desktop\CyberCourseProject\project\Project1\Project1\bin\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\User\Desktop\CyberCourseProject\project\Project1\Project1\bin\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\User\Desktop\CyberCourseProject\project\Project1\Project1\bin\Microsoft.Extensions.Logging.dll
+C:\Users\User\Desktop\CyberCourseProject\project\Project1\Project1\bin\Microsoft.Extensions.ObjectPool.dll
+C:\Users\User\Desktop\CyberCourseProject\project\Project1\Project1\bin\Microsoft.Extensions.Options.dll
+C:\Users\User\Desktop\CyberCourseProject\project\Project1\Project1\bin\Microsoft.Net.Http.Headers.dll
+C:\Users\User\Desktop\CyberCourseProject\project\Project1\Project1\bin\System.ComponentModel.Annotations.dll
+C:\Users\User\Desktop\CyberCourseProject\project\Project1\Project1\bin\System.IO.Pipelines.dll
+C:\Users\User\Desktop\CyberCourseProject\project\Project1\Project1\bin\System.Reflection.Metadata.dll
+C:\Users\User\Desktop\CyberCourseProject\project\Project1\Project1\bin\System.Security.Cryptography.Cng.dll
+C:\Users\User\Desktop\CyberCourseProject\project\Project1\Project1\bin\FluentAssertions.pdb
+C:\Users\User\Desktop\CyberCourseProject\project\Project1\Project1\bin\FluentAssertions.xml
+C:\Users\User\Desktop\CyberCourseProject\project\Project1\Project1\bin\Microsoft.AspNetCore.Connections.Abstractions.xml
+C:\Users\User\Desktop\CyberCourseProject\project\Project1\Project1\bin\Microsoft.AspNetCore.Hosting.xml
+C:\Users\User\Desktop\CyberCourseProject\project\Project1\Project1\bin\Microsoft.AspNetCore.Hosting.Abstractions.xml
+C:\Users\User\Desktop\CyberCourseProject\project\Project1\Project1\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+C:\Users\User\Desktop\CyberCourseProject\project\Project1\Project1\bin\Microsoft.AspNetCore.Http.xml
+C:\Users\User\Desktop\CyberCourseProject\project\Project1\Project1\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Users\User\Desktop\CyberCourseProject\project\Project1\Project1\bin\Microsoft.AspNetCore.Http.Extensions.xml
+C:\Users\User\Desktop\CyberCourseProject\project\Project1\Project1\bin\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\User\Desktop\CyberCourseProject\project\Project1\Project1\bin\Microsoft.AspNetCore.Server.Kestrel.Core.xml
+C:\Users\User\Desktop\CyberCourseProject\project\Project1\Project1\bin\Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.xml
+C:\Users\User\Desktop\CyberCourseProject\project\Project1\Project1\bin\Microsoft.AspNetCore.WebUtilities.xml
+C:\Users\User\Desktop\CyberCourseProject\project\Project1\Project1\bin\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\User\Desktop\CyberCourseProject\project\Project1\Project1\bin\Microsoft.Extensions.Configuration.EnvironmentVariables.xml
+C:\Users\User\Desktop\CyberCourseProject\project\Project1\Project1\bin\Microsoft.Extensions.Configuration.FileExtensions.xml
+C:\Users\User\Desktop\CyberCourseProject\project\Project1\Project1\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\User\Desktop\CyberCourseProject\project\Project1\Project1\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\User\Desktop\CyberCourseProject\project\Project1\Project1\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\User\Desktop\CyberCourseProject\project\Project1\Project1\bin\Microsoft.Extensions.FileProviders.Physical.xml
+C:\Users\User\Desktop\CyberCourseProject\project\Project1\Project1\bin\Microsoft.Extensions.FileSystemGlobbing.xml
+C:\Users\User\Desktop\CyberCourseProject\project\Project1\Project1\bin\Microsoft.Extensions.Hosting.Abstractions.xml
+C:\Users\User\Desktop\CyberCourseProject\project\Project1\Project1\bin\Microsoft.Extensions.Logging.xml
+C:\Users\User\Desktop\CyberCourseProject\project\Project1\Project1\bin\Microsoft.Extensions.ObjectPool.xml
+C:\Users\User\Desktop\CyberCourseProject\project\Project1\Project1\bin\Microsoft.Extensions.Options.xml
+C:\Users\User\Desktop\CyberCourseProject\project\Project1\Project1\bin\Microsoft.Net.Http.Headers.xml
+C:\Users\User\Desktop\CyberCourseProject\project\Project1\Project1\bin\System.IO.Pipelines.xml
+C:\Users\User\Desktop\CyberCourseProject\project\Project1\Project1\bin\System.Reflection.Metadata.xml
+C:\Users\User\Desktop\CyberCourseProject\part A - vulnerable\project\Project1\Project1\bin\Project1.dll.config
+C:\Users\User\Desktop\CyberCourseProject\part A - vulnerable\project\Project1\Project1\bin\Project1.dll
+C:\Users\User\Desktop\CyberCourseProject\part A - vulnerable\project\Project1\Project1\bin\Project1.pdb
+C:\Users\User\Desktop\CyberCourseProject\part A - vulnerable\project\Project1\Project1\bin\roslyn\csc.exe
+C:\Users\User\Desktop\CyberCourseProject\part A - vulnerable\project\Project1\Project1\bin\roslyn\csc.exe.config
+C:\Users\User\Desktop\CyberCourseProject\part A - vulnerable\project\Project1\Project1\bin\roslyn\csc.rsp
+C:\Users\User\Desktop\CyberCourseProject\part A - vulnerable\project\Project1\Project1\bin\roslyn\csi.exe
+C:\Users\User\Desktop\CyberCourseProject\part A - vulnerable\project\Project1\Project1\bin\roslyn\csi.exe.config
+C:\Users\User\Desktop\CyberCourseProject\part A - vulnerable\project\Project1\Project1\bin\roslyn\csi.rsp
+C:\Users\User\Desktop\CyberCourseProject\part A - vulnerable\project\Project1\Project1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\User\Desktop\CyberCourseProject\part A - vulnerable\project\Project1\Project1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\User\Desktop\CyberCourseProject\part A - vulnerable\project\Project1\Project1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\User\Desktop\CyberCourseProject\part A - vulnerable\project\Project1\Project1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\User\Desktop\CyberCourseProject\part A - vulnerable\project\Project1\Project1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\User\Desktop\CyberCourseProject\part A - vulnerable\project\Project1\Project1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\User\Desktop\CyberCourseProject\part A - vulnerable\project\Project1\Project1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\User\Desktop\CyberCourseProject\part A - vulnerable\project\Project1\Project1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\User\Desktop\CyberCourseProject\part A - vulnerable\project\Project1\Project1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\User\Desktop\CyberCourseProject\part A - vulnerable\project\Project1\Project1\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\User\Desktop\CyberCourseProject\part A - vulnerable\project\Project1\Project1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\User\Desktop\CyberCourseProject\part A - vulnerable\project\Project1\Project1\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\User\Desktop\CyberCourseProject\part A - vulnerable\project\Project1\Project1\bin\roslyn\System.AppContext.dll
+C:\Users\User\Desktop\CyberCourseProject\part A - vulnerable\project\Project1\Project1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\User\Desktop\CyberCourseProject\part A - vulnerable\project\Project1\Project1\bin\roslyn\System.Console.dll
+C:\Users\User\Desktop\CyberCourseProject\part A - vulnerable\project\Project1\Project1\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\User\Desktop\CyberCourseProject\part A - vulnerable\project\Project1\Project1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\User\Desktop\CyberCourseProject\part A - vulnerable\project\Project1\Project1\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\User\Desktop\CyberCourseProject\part A - vulnerable\project\Project1\Project1\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\User\Desktop\CyberCourseProject\part A - vulnerable\project\Project1\Project1\bin\roslyn\System.IO.Compression.dll
+C:\Users\User\Desktop\CyberCourseProject\part A - vulnerable\project\Project1\Project1\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\User\Desktop\CyberCourseProject\part A - vulnerable\project\Project1\Project1\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\User\Desktop\CyberCourseProject\part A - vulnerable\project\Project1\Project1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\User\Desktop\CyberCourseProject\part A - vulnerable\project\Project1\Project1\bin\roslyn\System.Net.Http.dll
+C:\Users\User\Desktop\CyberCourseProject\part A - vulnerable\project\Project1\Project1\bin\roslyn\System.Net.Sockets.dll
+C:\Users\User\Desktop\CyberCourseProject\part A - vulnerable\project\Project1\Project1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\User\Desktop\CyberCourseProject\part A - vulnerable\project\Project1\Project1\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\User\Desktop\CyberCourseProject\part A - vulnerable\project\Project1\Project1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\User\Desktop\CyberCourseProject\part A - vulnerable\project\Project1\Project1\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\User\Desktop\CyberCourseProject\part A - vulnerable\project\Project1\Project1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\User\Desktop\CyberCourseProject\part A - vulnerable\project\Project1\Project1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\User\Desktop\CyberCourseProject\part A - vulnerable\project\Project1\Project1\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\User\Desktop\CyberCourseProject\part A - vulnerable\project\Project1\Project1\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\User\Desktop\CyberCourseProject\part A - vulnerable\project\Project1\Project1\bin\roslyn\System.ValueTuple.dll
+C:\Users\User\Desktop\CyberCourseProject\part A - vulnerable\project\Project1\Project1\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\User\Desktop\CyberCourseProject\part A - vulnerable\project\Project1\Project1\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\User\Desktop\CyberCourseProject\part A - vulnerable\project\Project1\Project1\bin\roslyn\System.Xml.XPath.dll
+C:\Users\User\Desktop\CyberCourseProject\part A - vulnerable\project\Project1\Project1\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\User\Desktop\CyberCourseProject\part A - vulnerable\project\Project1\Project1\bin\roslyn\vbc.exe
+C:\Users\User\Desktop\CyberCourseProject\part A - vulnerable\project\Project1\Project1\bin\roslyn\vbc.exe.config
+C:\Users\User\Desktop\CyberCourseProject\part A - vulnerable\project\Project1\Project1\bin\roslyn\vbc.rsp
+C:\Users\User\Desktop\CyberCourseProject\part A - vulnerable\project\Project1\Project1\bin\roslyn\VBCSCompiler.exe
+C:\Users\User\Desktop\CyberCourseProject\part A - vulnerable\project\Project1\Project1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\User\Desktop\CyberCourseProject\part A - vulnerable\project\Project1\Project1\bin\BouncyCastle.Crypto.dll
+C:\Users\User\Desktop\CyberCourseProject\part A - vulnerable\project\Project1\Project1\bin\FluentAssertions.dll
+C:\Users\User\Desktop\CyberCourseProject\part A - vulnerable\project\Project1\Project1\bin\FluentValidation.dll
+C:\Users\User\Desktop\CyberCourseProject\part A - vulnerable\project\Project1\Project1\bin\MailKit.dll
+C:\Users\User\Desktop\CyberCourseProject\part A - vulnerable\project\Project1\Project1\bin\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Users\User\Desktop\CyberCourseProject\part A - vulnerable\project\Project1\Project1\bin\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\User\Desktop\CyberCourseProject\part A - vulnerable\project\Project1\Project1\bin\Microsoft.AspNetCore.Hosting.dll
+C:\Users\User\Desktop\CyberCourseProject\part A - vulnerable\project\Project1\Project1\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\User\Desktop\CyberCourseProject\part A - vulnerable\project\Project1\Project1\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\User\Desktop\CyberCourseProject\part A - vulnerable\project\Project1\Project1\bin\Microsoft.AspNetCore.Http.dll
+C:\Users\User\Desktop\CyberCourseProject\part A - vulnerable\project\Project1\Project1\bin\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\User\Desktop\CyberCourseProject\part A - vulnerable\project\Project1\Project1\bin\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\User\Desktop\CyberCourseProject\part A - vulnerable\project\Project1\Project1\bin\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+C:\Users\User\Desktop\CyberCourseProject\part A - vulnerable\project\Project1\Project1\bin\Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.dll
+C:\Users\User\Desktop\CyberCourseProject\part A - vulnerable\project\Project1\Project1\bin\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\User\Desktop\CyberCourseProject\part A - vulnerable\project\Project1\Project1\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\User\Desktop\CyberCourseProject\part A - vulnerable\project\Project1\Project1\bin\Microsoft.Bcl.HashCode.dll
+C:\Users\User\Desktop\CyberCourseProject\part A - vulnerable\project\Project1\Project1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\User\Desktop\CyberCourseProject\part A - vulnerable\project\Project1\Project1\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\User\Desktop\CyberCourseProject\part A - vulnerable\project\Project1\Project1\bin\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\User\Desktop\CyberCourseProject\part A - vulnerable\project\Project1\Project1\bin\Microsoft.Extensions.Configuration.dll
+C:\Users\User\Desktop\CyberCourseProject\part A - vulnerable\project\Project1\Project1\bin\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\User\Desktop\CyberCourseProject\part A - vulnerable\project\Project1\Project1\bin\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\User\Desktop\CyberCourseProject\part A - vulnerable\project\Project1\Project1\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\User\Desktop\CyberCourseProject\part A - vulnerable\project\Project1\Project1\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\User\Desktop\CyberCourseProject\part A - vulnerable\project\Project1\Project1\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\User\Desktop\CyberCourseProject\part A - vulnerable\project\Project1\Project1\bin\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\User\Desktop\CyberCourseProject\part A - vulnerable\project\Project1\Project1\bin\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\User\Desktop\CyberCourseProject\part A - vulnerable\project\Project1\Project1\bin\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\User\Desktop\CyberCourseProject\part A - vulnerable\project\Project1\Project1\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\User\Desktop\CyberCourseProject\part A - vulnerable\project\Project1\Project1\bin\Microsoft.Extensions.Logging.dll
+C:\Users\User\Desktop\CyberCourseProject\part A - vulnerable\project\Project1\Project1\bin\Microsoft.Extensions.ObjectPool.dll
+C:\Users\User\Desktop\CyberCourseProject\part A - vulnerable\project\Project1\Project1\bin\Microsoft.Extensions.Options.dll
+C:\Users\User\Desktop\CyberCourseProject\part A - vulnerable\project\Project1\Project1\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\User\Desktop\CyberCourseProject\part A - vulnerable\project\Project1\Project1\bin\Microsoft.Net.Http.Headers.dll
+C:\Users\User\Desktop\CyberCourseProject\part A - vulnerable\project\Project1\Project1\bin\MimeKit.dll
+C:\Users\User\Desktop\CyberCourseProject\part A - vulnerable\project\Project1\Project1\bin\Newtonsoft.Json.dll
+C:\Users\User\Desktop\CyberCourseProject\part A - vulnerable\project\Project1\Project1\bin\Npgsql.dll
+C:\Users\User\Desktop\CyberCourseProject\part A - vulnerable\project\Project1\Project1\bin\System.Buffers.dll
+C:\Users\User\Desktop\CyberCourseProject\part A - vulnerable\project\Project1\Project1\bin\System.Collections.Immutable.dll
+C:\Users\User\Desktop\CyberCourseProject\part A - vulnerable\project\Project1\Project1\bin\System.ComponentModel.Annotations.dll
+C:\Users\User\Desktop\CyberCourseProject\part A - vulnerable\project\Project1\Project1\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\User\Desktop\CyberCourseProject\part A - vulnerable\project\Project1\Project1\bin\System.IO.Pipelines.dll
+C:\Users\User\Desktop\CyberCourseProject\part A - vulnerable\project\Project1\Project1\bin\System.Memory.dll
+C:\Users\User\Desktop\CyberCourseProject\part A - vulnerable\project\Project1\Project1\bin\System.Numerics.Vectors.dll
+C:\Users\User\Desktop\CyberCourseProject\part A - vulnerable\project\Project1\Project1\bin\System.Reflection.Metadata.dll
+C:\Users\User\Desktop\CyberCourseProject\part A - vulnerable\project\Project1\Project1\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\User\Desktop\CyberCourseProject\part A - vulnerable\project\Project1\Project1\bin\System.Security.Cryptography.Cng.dll
+C:\Users\User\Desktop\CyberCourseProject\part A - vulnerable\project\Project1\Project1\bin\System.Text.Encodings.Web.dll
+C:\Users\User\Desktop\CyberCourseProject\part A - vulnerable\project\Project1\Project1\bin\System.Text.Json.dll
+C:\Users\User\Desktop\CyberCourseProject\part A - vulnerable\project\Project1\Project1\bin\System.Threading.Channels.dll
+C:\Users\User\Desktop\CyberCourseProject\part A - vulnerable\project\Project1\Project1\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\User\Desktop\CyberCourseProject\part A - vulnerable\project\Project1\Project1\bin\System.ValueTuple.dll
+C:\Users\User\Desktop\CyberCourseProject\part A - vulnerable\project\Project1\Project1\bin\BouncyCastle.Crypto.xml
+C:\Users\User\Desktop\CyberCourseProject\part A - vulnerable\project\Project1\Project1\bin\FluentAssertions.pdb
+C:\Users\User\Desktop\CyberCourseProject\part A - vulnerable\project\Project1\Project1\bin\FluentAssertions.xml
+C:\Users\User\Desktop\CyberCourseProject\part A - vulnerable\project\Project1\Project1\bin\FluentValidation.xml
+C:\Users\User\Desktop\CyberCourseProject\part A - vulnerable\project\Project1\Project1\bin\MailKit.pdb
+C:\Users\User\Desktop\CyberCourseProject\part A - vulnerable\project\Project1\Project1\bin\MailKit.xml
+C:\Users\User\Desktop\CyberCourseProject\part A - vulnerable\project\Project1\Project1\bin\Microsoft.AspNetCore.Connections.Abstractions.xml
+C:\Users\User\Desktop\CyberCourseProject\part A - vulnerable\project\Project1\Project1\bin\Microsoft.AspNetCore.Hosting.xml
+C:\Users\User\Desktop\CyberCourseProject\part A - vulnerable\project\Project1\Project1\bin\Microsoft.AspNetCore.Hosting.Abstractions.xml
+C:\Users\User\Desktop\CyberCourseProject\part A - vulnerable\project\Project1\Project1\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+C:\Users\User\Desktop\CyberCourseProject\part A - vulnerable\project\Project1\Project1\bin\Microsoft.AspNetCore.Http.xml
+C:\Users\User\Desktop\CyberCourseProject\part A - vulnerable\project\Project1\Project1\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Users\User\Desktop\CyberCourseProject\part A - vulnerable\project\Project1\Project1\bin\Microsoft.AspNetCore.Http.Extensions.xml
+C:\Users\User\Desktop\CyberCourseProject\part A - vulnerable\project\Project1\Project1\bin\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\User\Desktop\CyberCourseProject\part A - vulnerable\project\Project1\Project1\bin\Microsoft.AspNetCore.Server.Kestrel.Core.xml
+C:\Users\User\Desktop\CyberCourseProject\part A - vulnerable\project\Project1\Project1\bin\Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.xml
+C:\Users\User\Desktop\CyberCourseProject\part A - vulnerable\project\Project1\Project1\bin\Microsoft.AspNetCore.WebUtilities.xml
+C:\Users\User\Desktop\CyberCourseProject\part A - vulnerable\project\Project1\Project1\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\User\Desktop\CyberCourseProject\part A - vulnerable\project\Project1\Project1\bin\Microsoft.Bcl.HashCode.xml
+C:\Users\User\Desktop\CyberCourseProject\part A - vulnerable\project\Project1\Project1\bin\Microsoft.Extensions.Configuration.xml
+C:\Users\User\Desktop\CyberCourseProject\part A - vulnerable\project\Project1\Project1\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\User\Desktop\CyberCourseProject\part A - vulnerable\project\Project1\Project1\bin\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\User\Desktop\CyberCourseProject\part A - vulnerable\project\Project1\Project1\bin\Microsoft.Extensions.Configuration.EnvironmentVariables.xml
+C:\Users\User\Desktop\CyberCourseProject\part A - vulnerable\project\Project1\Project1\bin\Microsoft.Extensions.Configuration.FileExtensions.xml
+C:\Users\User\Desktop\CyberCourseProject\part A - vulnerable\project\Project1\Project1\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\User\Desktop\CyberCourseProject\part A - vulnerable\project\Project1\Project1\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\User\Desktop\CyberCourseProject\part A - vulnerable\project\Project1\Project1\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\User\Desktop\CyberCourseProject\part A - vulnerable\project\Project1\Project1\bin\Microsoft.Extensions.FileProviders.Physical.xml
+C:\Users\User\Desktop\CyberCourseProject\part A - vulnerable\project\Project1\Project1\bin\Microsoft.Extensions.FileSystemGlobbing.xml
+C:\Users\User\Desktop\CyberCourseProject\part A - vulnerable\project\Project1\Project1\bin\Microsoft.Extensions.Hosting.Abstractions.xml
+C:\Users\User\Desktop\CyberCourseProject\part A - vulnerable\project\Project1\Project1\bin\Microsoft.Extensions.Logging.xml
+C:\Users\User\Desktop\CyberCourseProject\part A - vulnerable\project\Project1\Project1\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\User\Desktop\CyberCourseProject\part A - vulnerable\project\Project1\Project1\bin\Microsoft.Extensions.ObjectPool.xml
+C:\Users\User\Desktop\CyberCourseProject\part A - vulnerable\project\Project1\Project1\bin\Microsoft.Extensions.Options.xml
+C:\Users\User\Desktop\CyberCourseProject\part A - vulnerable\project\Project1\Project1\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\User\Desktop\CyberCourseProject\part A - vulnerable\project\Project1\Project1\bin\Microsoft.Net.Http.Headers.xml
+C:\Users\User\Desktop\CyberCourseProject\part A - vulnerable\project\Project1\Project1\bin\MimeKit.pdb
+C:\Users\User\Desktop\CyberCourseProject\part A - vulnerable\project\Project1\Project1\bin\MimeKit.xml
+C:\Users\User\Desktop\CyberCourseProject\part A - vulnerable\project\Project1\Project1\bin\Newtonsoft.Json.xml
+C:\Users\User\Desktop\CyberCourseProject\part A - vulnerable\project\Project1\Project1\bin\Npgsql.xml
+C:\Users\User\Desktop\CyberCourseProject\part A - vulnerable\project\Project1\Project1\bin\System.Buffers.xml
+C:\Users\User\Desktop\CyberCourseProject\part A - vulnerable\project\Project1\Project1\bin\System.Collections.Immutable.xml
+C:\Users\User\Desktop\CyberCourseProject\part A - vulnerable\project\Project1\Project1\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\User\Desktop\CyberCourseProject\part A - vulnerable\project\Project1\Project1\bin\System.IO.Pipelines.xml
+C:\Users\User\Desktop\CyberCourseProject\part A - vulnerable\project\Project1\Project1\bin\System.Memory.xml
+C:\Users\User\Desktop\CyberCourseProject\part A - vulnerable\project\Project1\Project1\bin\System.Numerics.Vectors.xml
+C:\Users\User\Desktop\CyberCourseProject\part A - vulnerable\project\Project1\Project1\bin\System.Reflection.Metadata.xml
+C:\Users\User\Desktop\CyberCourseProject\part A - vulnerable\project\Project1\Project1\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\User\Desktop\CyberCourseProject\part A - vulnerable\project\Project1\Project1\bin\System.Text.Encodings.Web.xml
+C:\Users\User\Desktop\CyberCourseProject\part A - vulnerable\project\Project1\Project1\bin\System.Text.Json.xml
+C:\Users\User\Desktop\CyberCourseProject\part A - vulnerable\project\Project1\Project1\bin\System.Threading.Channels.xml
+C:\Users\User\Desktop\CyberCourseProject\part A - vulnerable\project\Project1\Project1\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\User\Desktop\CyberCourseProject\part A - vulnerable\project\Project1\Project1\bin\System.ValueTuple.xml
+C:\Users\User\Desktop\CyberCourseProject\part A - vulnerable\project\Project1\Project1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\User\Desktop\CyberCourseProject\part A - vulnerable\project\Project1\Project1\obj\Debug\Project1.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\CyberCourseProject\part A - vulnerable\project\Project1\Project1\obj\Debug\Project1.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\CyberCourseProject\part A - vulnerable\project\Project1\Project1\obj\Debug\Project1.csproj.CopyComplete
+C:\Users\User\Desktop\CyberCourseProject\part A - vulnerable\project\Project1\Project1\obj\Debug\Project1.dll
+C:\Users\User\Desktop\CyberCourseProject\part A - vulnerable\project\Project1\Project1\obj\Debug\Project1.pdb
+C:\Users\User\Desktop\CyberCourseProject\part B - secured\project\Project1\Project1\bin\Project1.dll.config
+C:\Users\User\Desktop\CyberCourseProject\part B - secured\project\Project1\Project1\bin\Project1.dll
+C:\Users\User\Desktop\CyberCourseProject\part B - secured\project\Project1\Project1\bin\Project1.pdb
+C:\Users\User\Desktop\CyberCourseProject\part B - secured\project\Project1\Project1\bin\roslyn\csc.exe
+C:\Users\User\Desktop\CyberCourseProject\part B - secured\project\Project1\Project1\bin\roslyn\csc.exe.config
+C:\Users\User\Desktop\CyberCourseProject\part B - secured\project\Project1\Project1\bin\roslyn\csc.rsp
+C:\Users\User\Desktop\CyberCourseProject\part B - secured\project\Project1\Project1\bin\roslyn\csi.exe
+C:\Users\User\Desktop\CyberCourseProject\part B - secured\project\Project1\Project1\bin\roslyn\csi.exe.config
+C:\Users\User\Desktop\CyberCourseProject\part B - secured\project\Project1\Project1\bin\roslyn\csi.rsp
+C:\Users\User\Desktop\CyberCourseProject\part B - secured\project\Project1\Project1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\User\Desktop\CyberCourseProject\part B - secured\project\Project1\Project1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\User\Desktop\CyberCourseProject\part B - secured\project\Project1\Project1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\User\Desktop\CyberCourseProject\part B - secured\project\Project1\Project1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\User\Desktop\CyberCourseProject\part B - secured\project\Project1\Project1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\User\Desktop\CyberCourseProject\part B - secured\project\Project1\Project1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\User\Desktop\CyberCourseProject\part B - secured\project\Project1\Project1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\User\Desktop\CyberCourseProject\part B - secured\project\Project1\Project1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\User\Desktop\CyberCourseProject\part B - secured\project\Project1\Project1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\User\Desktop\CyberCourseProject\part B - secured\project\Project1\Project1\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\User\Desktop\CyberCourseProject\part B - secured\project\Project1\Project1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\User\Desktop\CyberCourseProject\part B - secured\project\Project1\Project1\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\User\Desktop\CyberCourseProject\part B - secured\project\Project1\Project1\bin\roslyn\System.AppContext.dll
+C:\Users\User\Desktop\CyberCourseProject\part B - secured\project\Project1\Project1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\User\Desktop\CyberCourseProject\part B - secured\project\Project1\Project1\bin\roslyn\System.Console.dll
+C:\Users\User\Desktop\CyberCourseProject\part B - secured\project\Project1\Project1\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\User\Desktop\CyberCourseProject\part B - secured\project\Project1\Project1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\User\Desktop\CyberCourseProject\part B - secured\project\Project1\Project1\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\User\Desktop\CyberCourseProject\part B - secured\project\Project1\Project1\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\User\Desktop\CyberCourseProject\part B - secured\project\Project1\Project1\bin\roslyn\System.IO.Compression.dll
+C:\Users\User\Desktop\CyberCourseProject\part B - secured\project\Project1\Project1\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\User\Desktop\CyberCourseProject\part B - secured\project\Project1\Project1\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\User\Desktop\CyberCourseProject\part B - secured\project\Project1\Project1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\User\Desktop\CyberCourseProject\part B - secured\project\Project1\Project1\bin\roslyn\System.Net.Http.dll
+C:\Users\User\Desktop\CyberCourseProject\part B - secured\project\Project1\Project1\bin\roslyn\System.Net.Sockets.dll
+C:\Users\User\Desktop\CyberCourseProject\part B - secured\project\Project1\Project1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\User\Desktop\CyberCourseProject\part B - secured\project\Project1\Project1\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\User\Desktop\CyberCourseProject\part B - secured\project\Project1\Project1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\User\Desktop\CyberCourseProject\part B - secured\project\Project1\Project1\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\User\Desktop\CyberCourseProject\part B - secured\project\Project1\Project1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\User\Desktop\CyberCourseProject\part B - secured\project\Project1\Project1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\User\Desktop\CyberCourseProject\part B - secured\project\Project1\Project1\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\User\Desktop\CyberCourseProject\part B - secured\project\Project1\Project1\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\User\Desktop\CyberCourseProject\part B - secured\project\Project1\Project1\bin\roslyn\System.ValueTuple.dll
+C:\Users\User\Desktop\CyberCourseProject\part B - secured\project\Project1\Project1\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\User\Desktop\CyberCourseProject\part B - secured\project\Project1\Project1\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\User\Desktop\CyberCourseProject\part B - secured\project\Project1\Project1\bin\roslyn\System.Xml.XPath.dll
+C:\Users\User\Desktop\CyberCourseProject\part B - secured\project\Project1\Project1\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\User\Desktop\CyberCourseProject\part B - secured\project\Project1\Project1\bin\roslyn\vbc.exe
+C:\Users\User\Desktop\CyberCourseProject\part B - secured\project\Project1\Project1\bin\roslyn\vbc.exe.config
+C:\Users\User\Desktop\CyberCourseProject\part B - secured\project\Project1\Project1\bin\roslyn\vbc.rsp
+C:\Users\User\Desktop\CyberCourseProject\part B - secured\project\Project1\Project1\bin\roslyn\VBCSCompiler.exe
+C:\Users\User\Desktop\CyberCourseProject\part B - secured\project\Project1\Project1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\User\Desktop\CyberCourseProject\part B - secured\project\Project1\Project1\bin\BouncyCastle.Crypto.dll
+C:\Users\User\Desktop\CyberCourseProject\part B - secured\project\Project1\Project1\bin\FluentAssertions.dll
+C:\Users\User\Desktop\CyberCourseProject\part B - secured\project\Project1\Project1\bin\FluentValidation.dll
+C:\Users\User\Desktop\CyberCourseProject\part B - secured\project\Project1\Project1\bin\MailKit.dll
+C:\Users\User\Desktop\CyberCourseProject\part B - secured\project\Project1\Project1\bin\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Users\User\Desktop\CyberCourseProject\part B - secured\project\Project1\Project1\bin\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\User\Desktop\CyberCourseProject\part B - secured\project\Project1\Project1\bin\Microsoft.AspNetCore.Hosting.dll
+C:\Users\User\Desktop\CyberCourseProject\part B - secured\project\Project1\Project1\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\User\Desktop\CyberCourseProject\part B - secured\project\Project1\Project1\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\User\Desktop\CyberCourseProject\part B - secured\project\Project1\Project1\bin\Microsoft.AspNetCore.Http.dll
+C:\Users\User\Desktop\CyberCourseProject\part B - secured\project\Project1\Project1\bin\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\User\Desktop\CyberCourseProject\part B - secured\project\Project1\Project1\bin\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\User\Desktop\CyberCourseProject\part B - secured\project\Project1\Project1\bin\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+C:\Users\User\Desktop\CyberCourseProject\part B - secured\project\Project1\Project1\bin\Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.dll
+C:\Users\User\Desktop\CyberCourseProject\part B - secured\project\Project1\Project1\bin\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\User\Desktop\CyberCourseProject\part B - secured\project\Project1\Project1\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\User\Desktop\CyberCourseProject\part B - secured\project\Project1\Project1\bin\Microsoft.Bcl.HashCode.dll
+C:\Users\User\Desktop\CyberCourseProject\part B - secured\project\Project1\Project1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\User\Desktop\CyberCourseProject\part B - secured\project\Project1\Project1\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\User\Desktop\CyberCourseProject\part B - secured\project\Project1\Project1\bin\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\User\Desktop\CyberCourseProject\part B - secured\project\Project1\Project1\bin\Microsoft.Extensions.Configuration.dll
+C:\Users\User\Desktop\CyberCourseProject\part B - secured\project\Project1\Project1\bin\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\User\Desktop\CyberCourseProject\part B - secured\project\Project1\Project1\bin\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\User\Desktop\CyberCourseProject\part B - secured\project\Project1\Project1\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\User\Desktop\CyberCourseProject\part B - secured\project\Project1\Project1\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\User\Desktop\CyberCourseProject\part B - secured\project\Project1\Project1\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\User\Desktop\CyberCourseProject\part B - secured\project\Project1\Project1\bin\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\User\Desktop\CyberCourseProject\part B - secured\project\Project1\Project1\bin\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\User\Desktop\CyberCourseProject\part B - secured\project\Project1\Project1\bin\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\User\Desktop\CyberCourseProject\part B - secured\project\Project1\Project1\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\User\Desktop\CyberCourseProject\part B - secured\project\Project1\Project1\bin\Microsoft.Extensions.Logging.dll
+C:\Users\User\Desktop\CyberCourseProject\part B - secured\project\Project1\Project1\bin\Microsoft.Extensions.ObjectPool.dll
+C:\Users\User\Desktop\CyberCourseProject\part B - secured\project\Project1\Project1\bin\Microsoft.Extensions.Options.dll
+C:\Users\User\Desktop\CyberCourseProject\part B - secured\project\Project1\Project1\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\User\Desktop\CyberCourseProject\part B - secured\project\Project1\Project1\bin\Microsoft.Net.Http.Headers.dll
+C:\Users\User\Desktop\CyberCourseProject\part B - secured\project\Project1\Project1\bin\MimeKit.dll
+C:\Users\User\Desktop\CyberCourseProject\part B - secured\project\Project1\Project1\bin\Newtonsoft.Json.dll
+C:\Users\User\Desktop\CyberCourseProject\part B - secured\project\Project1\Project1\bin\Npgsql.dll
+C:\Users\User\Desktop\CyberCourseProject\part B - secured\project\Project1\Project1\bin\System.Buffers.dll
+C:\Users\User\Desktop\CyberCourseProject\part B - secured\project\Project1\Project1\bin\System.Collections.Immutable.dll
+C:\Users\User\Desktop\CyberCourseProject\part B - secured\project\Project1\Project1\bin\System.ComponentModel.Annotations.dll
+C:\Users\User\Desktop\CyberCourseProject\part B - secured\project\Project1\Project1\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\User\Desktop\CyberCourseProject\part B - secured\project\Project1\Project1\bin\System.IO.Pipelines.dll
+C:\Users\User\Desktop\CyberCourseProject\part B - secured\project\Project1\Project1\bin\System.Memory.dll
+C:\Users\User\Desktop\CyberCourseProject\part B - secured\project\Project1\Project1\bin\System.Numerics.Vectors.dll
+C:\Users\User\Desktop\CyberCourseProject\part B - secured\project\Project1\Project1\bin\System.Reflection.Metadata.dll
+C:\Users\User\Desktop\CyberCourseProject\part B - secured\project\Project1\Project1\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\User\Desktop\CyberCourseProject\part B - secured\project\Project1\Project1\bin\System.Security.Cryptography.Cng.dll
+C:\Users\User\Desktop\CyberCourseProject\part B - secured\project\Project1\Project1\bin\System.Text.Encodings.Web.dll
+C:\Users\User\Desktop\CyberCourseProject\part B - secured\project\Project1\Project1\bin\System.Text.Json.dll
+C:\Users\User\Desktop\CyberCourseProject\part B - secured\project\Project1\Project1\bin\System.Threading.Channels.dll
+C:\Users\User\Desktop\CyberCourseProject\part B - secured\project\Project1\Project1\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\User\Desktop\CyberCourseProject\part B - secured\project\Project1\Project1\bin\System.ValueTuple.dll
+C:\Users\User\Desktop\CyberCourseProject\part B - secured\project\Project1\Project1\bin\BouncyCastle.Crypto.xml
+C:\Users\User\Desktop\CyberCourseProject\part B - secured\project\Project1\Project1\bin\FluentAssertions.pdb
+C:\Users\User\Desktop\CyberCourseProject\part B - secured\project\Project1\Project1\bin\FluentAssertions.xml
+C:\Users\User\Desktop\CyberCourseProject\part B - secured\project\Project1\Project1\bin\FluentValidation.xml
+C:\Users\User\Desktop\CyberCourseProject\part B - secured\project\Project1\Project1\bin\MailKit.pdb
+C:\Users\User\Desktop\CyberCourseProject\part B - secured\project\Project1\Project1\bin\MailKit.xml
+C:\Users\User\Desktop\CyberCourseProject\part B - secured\project\Project1\Project1\bin\Microsoft.AspNetCore.Connections.Abstractions.xml
+C:\Users\User\Desktop\CyberCourseProject\part B - secured\project\Project1\Project1\bin\Microsoft.AspNetCore.Hosting.xml
+C:\Users\User\Desktop\CyberCourseProject\part B - secured\project\Project1\Project1\bin\Microsoft.AspNetCore.Hosting.Abstractions.xml
+C:\Users\User\Desktop\CyberCourseProject\part B - secured\project\Project1\Project1\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+C:\Users\User\Desktop\CyberCourseProject\part B - secured\project\Project1\Project1\bin\Microsoft.AspNetCore.Http.xml
+C:\Users\User\Desktop\CyberCourseProject\part B - secured\project\Project1\Project1\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Users\User\Desktop\CyberCourseProject\part B - secured\project\Project1\Project1\bin\Microsoft.AspNetCore.Http.Extensions.xml
+C:\Users\User\Desktop\CyberCourseProject\part B - secured\project\Project1\Project1\bin\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\User\Desktop\CyberCourseProject\part B - secured\project\Project1\Project1\bin\Microsoft.AspNetCore.Server.Kestrel.Core.xml
+C:\Users\User\Desktop\CyberCourseProject\part B - secured\project\Project1\Project1\bin\Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.xml
+C:\Users\User\Desktop\CyberCourseProject\part B - secured\project\Project1\Project1\bin\Microsoft.AspNetCore.WebUtilities.xml
+C:\Users\User\Desktop\CyberCourseProject\part B - secured\project\Project1\Project1\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\User\Desktop\CyberCourseProject\part B - secured\project\Project1\Project1\bin\Microsoft.Bcl.HashCode.xml
+C:\Users\User\Desktop\CyberCourseProject\part B - secured\project\Project1\Project1\bin\Microsoft.Extensions.Configuration.xml
+C:\Users\User\Desktop\CyberCourseProject\part B - secured\project\Project1\Project1\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\User\Desktop\CyberCourseProject\part B - secured\project\Project1\Project1\bin\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\User\Desktop\CyberCourseProject\part B - secured\project\Project1\Project1\bin\Microsoft.Extensions.Configuration.EnvironmentVariables.xml
+C:\Users\User\Desktop\CyberCourseProject\part B - secured\project\Project1\Project1\bin\Microsoft.Extensions.Configuration.FileExtensions.xml
+C:\Users\User\Desktop\CyberCourseProject\part B - secured\project\Project1\Project1\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\User\Desktop\CyberCourseProject\part B - secured\project\Project1\Project1\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\User\Desktop\CyberCourseProject\part B - secured\project\Project1\Project1\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\User\Desktop\CyberCourseProject\part B - secured\project\Project1\Project1\bin\Microsoft.Extensions.FileProviders.Physical.xml
+C:\Users\User\Desktop\CyberCourseProject\part B - secured\project\Project1\Project1\bin\Microsoft.Extensions.FileSystemGlobbing.xml
+C:\Users\User\Desktop\CyberCourseProject\part B - secured\project\Project1\Project1\bin\Microsoft.Extensions.Hosting.Abstractions.xml
+C:\Users\User\Desktop\CyberCourseProject\part B - secured\project\Project1\Project1\bin\Microsoft.Extensions.Logging.xml
+C:\Users\User\Desktop\CyberCourseProject\part B - secured\project\Project1\Project1\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\User\Desktop\CyberCourseProject\part B - secured\project\Project1\Project1\bin\Microsoft.Extensions.ObjectPool.xml
+C:\Users\User\Desktop\CyberCourseProject\part B - secured\project\Project1\Project1\bin\Microsoft.Extensions.Options.xml
+C:\Users\User\Desktop\CyberCourseProject\part B - secured\project\Project1\Project1\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\User\Desktop\CyberCourseProject\part B - secured\project\Project1\Project1\bin\Microsoft.Net.Http.Headers.xml
+C:\Users\User\Desktop\CyberCourseProject\part B - secured\project\Project1\Project1\bin\MimeKit.pdb
+C:\Users\User\Desktop\CyberCourseProject\part B - secured\project\Project1\Project1\bin\MimeKit.xml
+C:\Users\User\Desktop\CyberCourseProject\part B - secured\project\Project1\Project1\bin\Newtonsoft.Json.xml
+C:\Users\User\Desktop\CyberCourseProject\part B - secured\project\Project1\Project1\bin\Npgsql.xml
+C:\Users\User\Desktop\CyberCourseProject\part B - secured\project\Project1\Project1\bin\System.Buffers.xml
+C:\Users\User\Desktop\CyberCourseProject\part B - secured\project\Project1\Project1\bin\System.Collections.Immutable.xml
+C:\Users\User\Desktop\CyberCourseProject\part B - secured\project\Project1\Project1\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\User\Desktop\CyberCourseProject\part B - secured\project\Project1\Project1\bin\System.IO.Pipelines.xml
+C:\Users\User\Desktop\CyberCourseProject\part B - secured\project\Project1\Project1\bin\System.Memory.xml
+C:\Users\User\Desktop\CyberCourseProject\part B - secured\project\Project1\Project1\bin\System.Numerics.Vectors.xml
+C:\Users\User\Desktop\CyberCourseProject\part B - secured\project\Project1\Project1\bin\System.Reflection.Metadata.xml
+C:\Users\User\Desktop\CyberCourseProject\part B - secured\project\Project1\Project1\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\User\Desktop\CyberCourseProject\part B - secured\project\Project1\Project1\bin\System.Text.Encodings.Web.xml
+C:\Users\User\Desktop\CyberCourseProject\part B - secured\project\Project1\Project1\bin\System.Text.Json.xml
+C:\Users\User\Desktop\CyberCourseProject\part B - secured\project\Project1\Project1\bin\System.Threading.Channels.xml
+C:\Users\User\Desktop\CyberCourseProject\part B - secured\project\Project1\Project1\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\User\Desktop\CyberCourseProject\part B - secured\project\Project1\Project1\bin\System.ValueTuple.xml
+C:\Users\User\Desktop\CyberCourseProject\part B - secured\project\Project1\Project1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\User\Desktop\CyberCourseProject\part B - secured\project\Project1\Project1\obj\Debug\Project1.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\CyberCourseProject\part B - secured\project\Project1\Project1\obj\Debug\Project1.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\CyberCourseProject\part B - secured\project\Project1\Project1\obj\Debug\Project1.csproj.CopyComplete
+C:\Users\User\Desktop\CyberCourseProject\part B - secured\project\Project1\Project1\obj\Debug\Project1.dll
+C:\Users\User\Desktop\CyberCourseProject\part B - secured\project\Project1\Project1\obj\Debug\Project1.pdb
