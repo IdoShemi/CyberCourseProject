@@ -23,3 +23,5 @@
 
 * registration injection: <br />
     **mail:** test@test.com'; DROP TABLE postgres.cyberschema1.stam --
+    
+note *: the password complexity is false for convenience.
