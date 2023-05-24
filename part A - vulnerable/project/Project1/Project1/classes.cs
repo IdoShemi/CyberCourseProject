@@ -18,7 +18,7 @@ using System.Web.Hosting;
 
 namespace Project1
 {
-    public class UniqueString // use instead guid
+    public class UniqueString
     {
         static Random random = new Random();
         public static string GetUniqueValue()

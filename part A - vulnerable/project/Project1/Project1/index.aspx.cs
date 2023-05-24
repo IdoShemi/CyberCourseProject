@@ -12,7 +12,6 @@ using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Server.Kestrel.Core;
 using System.Net;
 using System.Security.Authentication;
-using System.Security.Cryptography.X509Certificates;
 namespace Project1
 {
     public partial class index : System.Web.UI.Page
@@ -33,7 +32,7 @@ namespace Project1
             // part 1 - check if user exists in db
             string mail = mailBox.Text;
             string pass = passwordBox.Text;
-            mtkUser = mtkUserModel.GetUserByEmailVulnerable(mail, out outString); // change to Vulnerable ASAP!!!!
+            mtkUser = mtkUserModel.GetUserByEmailVulnerable(mail, out outString); // secured part without vulnerable
             if (mtkUser == null)
             {
                 PrintError();
@@ -87,7 +86,6 @@ namespace Project1
             string pj = handler.BuildJson();
 
             bool result = mtkUserModel.VerifyEmailPasswordMatchVulnerable(mail, pj, out outString);
-            //Response.Write("hellO"+result + "\n"+ outString);
 
             if (!result)
             {
