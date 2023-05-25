@@ -1,4 +1,7 @@
 # Cyber course project in asp.net
+## project overview
+This project involves developing a web-based information system for Comunication_LTD, a fictional communication company. The system includes user registration, password management, login, and customer management features. Secure development principles are followed, including password encryption, TLS 1.2 protocol for secure connections, and self-signed certificates. The project also addresses security vulnerabilities such as XSS and SQLi attacks, implementing solutions to mitigate these risks. The system's configuration allows for password complexity requirements, history tracking, and login attempts limitation.
+
 ## submitters: 
 214882482 - Ido Shemi <br />
 215329095 - Niv Aderet <br />
@@ -10,6 +13,7 @@
 2. Ensure that Visual Studio with ASP.NET extensions is installed.
 3. Check if your computer has .NET Framework 4.8 installed.
 4. Copy the DbConfig.json file to the appropriate directory (e.g., C:\Program Files\IIS Express).
+5. Open the project with the .sln file.
 
 ## attack examples
 * clients sql injection:<br />
