@@ -2,12 +2,6 @@
 ## project overview
 This project involves developing a web-based information system for Comunication_LTD, a fictional communication company. The system includes user registration, password management, login, and customer management features. Secure development principles are followed, including password encryption, TLS 1.2 protocol for secure connections, and self-signed certificates. The project also addresses security vulnerabilities such as XSS and SQLi attacks, implementing solutions to mitigate these risks. The system's configuration allows for password complexity requirements, history tracking, and login attempts limitation.
 
-## submitters: 
-214882482 - Ido Shemi <br />
-215329095 - Niv Aderet <br />
-319274874 - Oleg Shehter <br />
-207379769 - Idit Oksman
-
 ## installation guide
 1. Clone the GitHub repository to your desktop.
 2. Ensure that Visual Studio with ASP.NET extensions is installed.
